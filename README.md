@@ -15,7 +15,6 @@ An AI-powered platform that analyzes applicant data and recommends top candidate
 - **Event:** Nigeria PLP Hackathon
 - **Powered by:** LSETF, Jobred, and Opolo
 - **Start Date:** August 27, 2025
-- **Deadline:** September 3, 2025
 - **Target Audience:** LSETF/PLP current learners and recent alumni
 
 ## 🎯 Problem Statement
@@ -198,4 +197,5 @@ Nigeria is a vibrant nation, rich in talent, innovation, and untapped potential.
 ---
 
 **Built with ❤️ for Nigeria's Future** | **PLP Hackathon 2025**
+
 
