@@ -81,7 +81,7 @@ This project addresses critical challenges in Nigeria's platform economy:
 - **Database:** PostgreSQL, Redis (caching)
 - **Authentication:** JWT, OAuth integration
 - **File Storage:** Cloud storage with secure upload system
-- **Deployment:** Docker, Cloud Infrastructure
+- **Deployment:** 
 
 ## 📱 Platform Capabilities
 
@@ -197,5 +197,6 @@ Nigeria is a vibrant nation, rich in talent, innovation, and untapped potential.
 ---
 
 **Built with ❤️ for Nigeria's Future** | **PLP Hackathon 2025**
+
 
 
